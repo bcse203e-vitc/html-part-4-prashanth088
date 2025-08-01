@@ -5,7 +5,6 @@ body {
   justify-content: center;
   padding: 50px;
 }
-
 .article-card {
   border: 2px solid #2e8b57;
   padding: 25px;
@@ -13,24 +12,20 @@ body {
   max-width: 700px;
   box-shadow: 0 0 10px rgba(0,0,0,0.05);
 }
-
 .title {
   font-weight: bold;
   text-decoration: underline;
   color: #000;
 }
-
 .author {
   color: #555;
   font-style: italic;
   margin-bottom: 15px;
 }
-
 .content {
   line-height: 1.6;
   color: #333;
 }
-
 .read-more {
   margin-top: 20px;
   padding: 10px 20px;
@@ -41,7 +36,6 @@ body {
   border-radius: 4px;
   cursor: pointer;
 }
-
 .read-more:hover {
   background-color: #0056b3;
 }
